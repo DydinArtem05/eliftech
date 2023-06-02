@@ -1,0 +1,17 @@
+{
+    "Mc Donny":[{"id":1, "name":"Big Big Burger", "price":888, "src":"https://img.freepik.com/free-photo/double-hamburger-isolated-on-white-background-fresh-burger-fast-food-with-beef-and-cream-cheese_90220-1192.jpg?w=2000"},
+    {"id":2, "name":"Big Big Burger", "price":888, "src":"https://img.freepik.com/free-photo/double-hamburger-isolated-on-white-background-fresh-burger-fast-food-with-beef-and-cream-cheese_90220-1192.jpg?w=2000"},
+    {"id":3, "name":"Big Big Burger", "price":888, "src":"https://img.freepik.com/free-photo/double-hamburger-isolated-on-white-background-fresh-burger-fast-food-with-beef-and-cream-cheese_90220-1192.jpg?w=2000"},
+    {"id":4, "name":"Big Big Burger", "price":888, "src":"https://img.freepik.com/free-photo/double-hamburger-isolated-on-white-background-fresh-burger-fast-food-with-beef-and-cream-cheese_90220-1192.jpg?w=2000"},
+    {"id":5, "name":"Big Big Burger", "price":888, "src":"https://img.freepik.com/free-photo/double-hamburger-isolated-on-white-background-fresh-burger-fast-food-with-beef-and-cream-cheese_90220-1192.jpg?w=2000"}],
+    "CFK":[{"id":1, "name":"Big Big Sauce", "price":888, "src":"https://img.freepik.com/free-photo/double-hamburger-isolated-on-white-background-fresh-burger-fast-food-with-beef-and-cream-cheese_90220-1192.jpg?w=2000"},
+    {"id":2, "name":"Big Big Sauce", "price":888, "src":"https://img.freepik.com/free-photo/double-hamburger-isolated-on-white-background-fresh-burger-fast-food-with-beef-and-cream-cheese_90220-1192.jpg?w=2000"},
+    {"id":3, "name":"Big Big Sauce", "price":888, "src":"https://img.freepik.com/free-photo/double-hamburger-isolated-on-white-background-fresh-burger-fast-food-with-beef-and-cream-cheese_90220-1192.jpg?w=2000"},
+    {"id":4, "name":"Big Big Sauce", "price":888, "src":"https://img.freepik.com/free-photo/double-hamburger-isolated-on-white-background-fresh-burger-fast-food-with-beef-and-cream-cheese_90220-1192.jpg?w=2000"},
+    {"id":5, "name":"Big Big Sauce", "price":888, "src":"https://img.freepik.com/free-photo/double-hamburger-isolated-on-white-background-fresh-burger-fast-food-with-beef-and-cream-cheese_90220-1192.jpg?w=2000"}],
+    "etc..":[{"id":1, "name":"Big Big Potato", "price":888, "src":"https://img.freepik.com/free-photo/double-hamburger-isolated-on-white-background-fresh-burger-fast-food-with-beef-and-cream-cheese_90220-1192.jpg?w=2000"},
+    {"id":2, "name":"Big Big Potato", "price":888, "src":"https://img.freepik.com/free-photo/double-hamburger-isolated-on-white-background-fresh-burger-fast-food-with-beef-and-cream-cheese_90220-1192.jpg?w=2000"},
+    {"id":3, "name":"Big Big Potato", "price":888, "src":"https://img.freepik.com/free-photo/double-hamburger-isolated-on-white-background-fresh-burger-fast-food-with-beef-and-cream-cheese_90220-1192.jpg?w=2000"},
+    {"id":4, "name":"Big Big Potato", "price":888, "src":"https://img.freepik.com/free-photo/double-hamburger-isolated-on-white-background-fresh-burger-fast-food-with-beef-and-cream-cheese_90220-1192.jpg?w=2000"},
+    {"id":5, "name":"Big Big Potato", "price":888, "src":"https://img.freepik.com/free-photo/double-hamburger-isolated-on-white-background-fresh-burger-fast-food-with-beef-and-cream-cheese_90220-1192.jpg?w=2000"}]
+}
