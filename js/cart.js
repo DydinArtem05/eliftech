@@ -120,7 +120,7 @@ submitButton.addEventListener('click', () => {
     products: prodList
   };
 
-  fetch('../json/save-data', {
+  fetch('./json/save-data', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json'
