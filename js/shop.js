@@ -42,7 +42,7 @@ function AddProduct(imageSrc, productName, productPrice) {
 
 function GetProducts(item) {
   productBlock.innerHTML = '';
-  fetch("../json/product.json")
+  fetch("./json/product.json")
     .then(response => response.json())
     .then(data => {
       productArr = data;
