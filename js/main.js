@@ -1,7 +1,7 @@
 const cartButton = document.getElementById("cart");
 const navItem = document.getElementsByClassName("nav__item");
 
-fetch("../json/navbar.json")
+fetch("./json/navbar.json")
     .then(response => response.json())
     .then(data => {
         navbarMenu = data;
