@@ -36,7 +36,7 @@ function createProductElement(product, occurrences) {
       </div>
       <div class="cart__product-quantity">
         <div class="cart__product-add-button"><button>+</button></div>
-        <div><input type="text" value="${occurrences + 1}" data-name="${product.name}"></div>
+        <div class="cart__product-name"><input type="text" value="${occurrences + 1}" data-name="${product.name}"></div>
         <div class="cart__product-minus-button"><button>-</button></div>
       </div>
     </div>
