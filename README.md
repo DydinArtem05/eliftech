@@ -29,3 +29,7 @@ To run the Shop Cart project locally, follow these steps:
 2. Navigate to the project directory: `cd shop-cart`
 3. Open the `index.html` file in a web browser.
 4. Start exploring the different shops and adding products to the cart.
+
+**Site Access**
+
+https://dydinartem05.github.io/eliftech/index.html
