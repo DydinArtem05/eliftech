@@ -105,6 +105,22 @@ function updateLocalStorage(counts) {
   prodList = updatedProdList;
 }
 
+function getSelectedProducts() {
+  const products = document.querySelectorAll('.cart__product');
+  const selectedProducts = [];
+
+  products.forEach((product) => {
+    const name = product.querySelector('.cart__product-name').textContent;
+    const price = parseFloat(product.querySelector('.cart__product-price').textContent.replace('Price: ', ''));
+    const quantity = parseInt(product.querySelector('input[type="text"]').value);
+
+    selectedProducts.push({ name, price, quantity });
+  });
+
+  return selectedProducts;
+}
+
+
 const submitButton = document.querySelector('.submit-button');
 submitButton.addEventListener('click', () => {
   const nameInput = document.querySelector('input[name="name"]');
