@@ -29,7 +29,3 @@ To run the Shop Cart project locally, follow these steps:
 2. Navigate to the project directory: `cd shop-cart`
 3. Open the `index.html` file in a web browser.
 4. Start exploring the different shops and adding products to the cart.
-
-**Contributing**
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
