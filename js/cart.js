@@ -136,7 +136,7 @@ submitButton.addEventListener('click', () => {
     products: getSelectedProducts() // Получаем только выбранные товары
   };
 
-  fetch('./json/save-data', {
+  fetch('./json/saveData', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json'
