@@ -117,7 +117,7 @@ submitButton.addEventListener('click', () => {
     email: emailInput.value,
     phone: phoneInput.value,
     address: addressInput.value,
-    products: prodList
+    products: getSelectedProducts() // Получаем только выбранные товары
   };
 
   fetch('./json/save-data', {
